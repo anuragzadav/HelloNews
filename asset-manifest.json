@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HelloNews/static/css/main.dc4d6ff2.css",
+    "main.js": "/HelloNews/static/js/main.ee3b23b5.js",
+    "static/js/146.39c84459.chunk.js": "/HelloNews/static/js/146.39c84459.chunk.js",
+    "index.html": "/HelloNews/index.html",
+    "main.dc4d6ff2.css.map": "/HelloNews/static/css/main.dc4d6ff2.css.map",
+    "main.ee3b23b5.js.map": "/HelloNews/static/js/main.ee3b23b5.js.map",
+    "146.39c84459.chunk.js.map": "/HelloNews/static/js/146.39c84459.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.ee3b23b5.js"
+  ]
+}
