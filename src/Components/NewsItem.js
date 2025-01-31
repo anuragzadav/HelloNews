@@ -62,7 +62,10 @@ const NewsItem = (props) => {
             target="_blank"
             rel="noopener noreferrer"
             className="btn btn-sm "
-            style={{ color: theme === "light" ? "black" : "white" }}
+            style={{
+              color: theme === "light" ? "white" : "white",
+              backgroundColor: theme === "light" ? "#3F7CFF" : "#808080",
+            }}
           >
             Read More
           </a>

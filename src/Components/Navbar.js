@@ -17,7 +17,7 @@ const Navbar = ({ theme, toggleTheme }) => {
       location.pathname === path
         ? theme === "light"
           ? "white"
-          : "black"
+          : "#291320"
         : "transparent",
     padding: "5px 10px",
     borderRadius: "10px",
