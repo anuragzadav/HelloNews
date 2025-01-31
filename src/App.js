@@ -17,7 +17,7 @@ const App = () => {
   const toggleTheme = () => {
     const newTheme = theme === "light" ? "dark" : "light";
     setTheme(newTheme);
-    // localStorage.setItem("theme", newTheme); // Save theme in localStorage
+    localStorage.setItem("theme", newTheme); // Save theme in localStorage
   };
 
   // Apply theme to body when it changes
